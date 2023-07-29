@@ -8,7 +8,7 @@ Excelling in Quality Engineering and Continuously Seeking Growth as a Passionate
 
 * 🌍  I'm based in United States
 * 🖥️  See my portfolio at [LinkedIn](http://linkedin.com/in/pthapa1/)
-* ✉️  You can contact me at [pratik.philos@yahoo.com](mailto:pratik.philos@yahoo.com)
+* ✉️  You can contact me at [pratik.philos@yahoo.com](mailto:pratik@tldrnotes.net)
 * 🚀  I'm currently working on [Creating API with Dynamo DB, Node and Express. This is the front-end.](http://github.com/pthapa1/scraper-to-api-front-end)
 * 🧠  I'm learning Axios JS, AWD ECS, AWS Dynamo DB
 * 🤝  I'm open to collaborating on JavaScript Test Framework like Cypress, and Jest. Also, interested in API creation and Testing.
