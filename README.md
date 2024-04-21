@@ -5,11 +5,12 @@ Passionate Developer and Tech Writer
 ---------------------------------------------------
 
 Excelling in Quality Engineering and Continuously Seeking Growth as a Passionate Developer and Tech Enthusiast.
+* 🌍 I'm based in the United States
 
-* 🌍  I'm based in the United States
-* 🖥️  See my portfolio at [LinkedIn](http://linkedin.com/in/pthapa1/)
-* ✉️  You can contact me at [pratik.philos@yahoo.com](mailto:pratik@tldrnotes.net)
-* 🔖  I maintain a blog on [Medium](https://medium.com/@pthapa1)
+* 🖥️ See my portfolio at [LinkedIn](http://linkedin.com/in/pthapa1/)
+* ✉️  You can contact me at [pratik@tldrnotes.net](mailto:pratik@tldrnotes.net)
+* 🔖 I maintain a blog on [Medium](https://medium.com/@pthapa1)
+* 🔗 Second Github Account [Github](https://github.com/xaaha/)
 
 ### Skills
 
